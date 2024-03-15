@@ -1,0 +1,4 @@
+star-client/node_modules/
+star-client/.cache/
+star-client/public
+star-client/src/gatsby-types.d.ts

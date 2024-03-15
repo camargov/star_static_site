@@ -1,1 +1,1 @@
-# star_static_site
+# STAR: A static site about a specific list of Career paths
