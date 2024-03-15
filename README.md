@@ -1,0 +1,1 @@
+# star_static_site
